@@ -1,6 +1,6 @@
 {
     "name": "randity",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A package for generating random alphanumeric strings",
     "keywords": [
         "id",
@@ -19,7 +19,7 @@
       "url": "https://github.com/ikechukwu-peter/randity/issues",
       "email": "pitiyke@gmail.com"
     },
-    "main": "index.js",
+    "main": "./lib/random.js",
     
     "repository": {
       "type": "git",
