@@ -1,6 +1,6 @@
 {
     "name": "randi",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "A package for generating random alphanumeric strings",
     "keywords": [
         "id",
