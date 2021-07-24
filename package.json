@@ -1,12 +1,12 @@
 {
-    "name": "randi",
+    "name": "randity",
     "version": "1.0.0",
     "description": "A package for generating random alphanumeric strings",
     "keywords": [
         "id",
       "random",
       "generator",
-      "randi",
+      "randity",
       "chance",
       "random string",
       "unique",
@@ -14,16 +14,16 @@
       "generate random id"
 
     ],
-    "homepage": "https://github.com/ikechukwu-peter/randi",
+    "homepage": "https://github.com/ikechukwu-peter/randity",
     "bugs": {
-      "url": "https://github.com/ikechukwu-peter/randi/issues",
+      "url": "https://github.com/ikechukwu-peter/randity/issues",
       "email": "pitiyke@gmail.com"
     },
     "main": "index.js",
     
     "repository": {
       "type": "git",
-      "url": "https://github.com/ikechukwu-peter/randi"
+      "url": "https://github.com/ikechukwu-peter/randity"
     },
     "author": "Peter Ikechukwu <pitiyke@gmail.com> (devpete.netlify.com)",
     "license": "MIT",
