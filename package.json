@@ -1,0 +1,32 @@
+{
+    "name": "randi",
+    "version": "1.0.0",
+    "description": "A package for generating random alphanumeric strings",
+    "keywords": [
+        "id",
+      "random",
+      "generator",
+      "randi",
+      "chance",
+      "random string",
+      "unique",
+      "generate random string",
+      "generate random id"
+
+    ],
+    "homepage": "https://github.com/ikechukwu-peter/randi",
+    "bugs": {
+      "url": "https://github.com/ikechukwu-peter/randi/issues",
+      "email": "ikechukwupeter1999@gmail.com"
+    },
+    "main": "index.js",
+    
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ikechukwu-peter/randi"
+    },
+    "author": "Peter Ikechukwu <ikechukwupeter1999@gmail.com> (devpete.netlify.com)",
+    "license": "MIT",
+    "private": false
+   
+  }
