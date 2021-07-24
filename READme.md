@@ -1,5 +1,4 @@
 ## randi
-[](https://img.shields.io/badge/-generate-orange)
 Library to help you create random strings.
 #### Installation
 
