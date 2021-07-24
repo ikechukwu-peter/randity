@@ -24,7 +24,6 @@ To install randi, use [npm](https://www.npmjs.com/package/randi):
 |:---------------------------|
 | Will explode when clicked! |
 | :warning:  Becareful of passing a very high number as this will block your code execution till it finishes execution.   |
-|:---------------------------|
 
  
  #### LICENCE
