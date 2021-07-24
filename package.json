@@ -17,7 +17,7 @@
     "homepage": "https://github.com/ikechukwu-peter/randi",
     "bugs": {
       "url": "https://github.com/ikechukwu-peter/randi/issues",
-      "email": "ikechukwupeter1999@gmail.com"
+      "email": "pitiyke@gmail.com"
     },
     "main": "index.js",
     
@@ -25,7 +25,7 @@
       "type": "git",
       "url": "https://github.com/ikechukwu-peter/randi"
     },
-    "author": "Peter Ikechukwu <ikechukwupeter1999@gmail.com> (devpete.netlify.com)",
+    "author": "Peter Ikechukwu <pitiyke@gmail.com> (devpete.netlify.com)",
     "license": "MIT",
     "private": false
    
