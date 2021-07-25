@@ -1,6 +1,6 @@
 {
     "name": "randity",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A package for generating random alphanumeric strings",
     "keywords": [
         "id",
